@@ -27,6 +27,7 @@ gem 'sass-rails', '~> 5.0' and '>= 3.2'
 gem 'bootstrap-will_paginate'
 gem 'will_paginate'
 gem 'devise'
+gem 'acts_as_votable'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
